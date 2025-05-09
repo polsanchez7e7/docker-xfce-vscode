@@ -1,4 +1,5 @@
 #!/bin/bash
+#pol.sanchez.7e7@itb.cat
 
 IMAGE_NAME="ubuntu-xfce-vscode"
 CONTAINER_NAME="dev-container"
